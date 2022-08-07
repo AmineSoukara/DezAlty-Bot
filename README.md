@@ -1,11 +1,50 @@
-<p align="center"><a href="#"><img src="https://telegra.ph/file/a135efd02628f3d6b2a4e.jpg" width="250"></a></p> 
-<h1 align="center"><b>DezAlty-Bot</b></h1>
-<h4 align="center">Telegram Bot To Search/Download Music From Deezer & Spotify With A Lot Of Features.</h4>
+![RUN](https://github.com/AmineSoukara/DezAlty-Bot/raw/main/DezAlty/resources/cover_main.gif)
+
+<div align="center">
+
+> Telegram Bot To Search And Download Music From Deezer & Spotify (With Many Features).
+
+<!-- Badges -->
+<p>
+  <a href="https://github.com/AmineSoukara/DezAlty-Bot/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/aminesoukara/DezAlty-Bot" alt="contributors" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/aminesoukara/DezAlty-Bot" alt="last update" />
+  </a>
+  <a href="https://github.com/AmineSoukara/DezAlty-Bot/network/members">
+    <img src="https://img.shields.io/github/forks/aminesoukara/DezAlty-Bot" alt="forks" />
+  </a>
+  <a href="https://github.com/AmineSoukara/DezAlty-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/aminesoukara/DezAlty-Bot" alt="stars" />
+  </a>
+  <a href="https://github.com/AmineSoukara/DezAlty-Bot/issues/">
+    <img src="https://img.shields.io/github/issues/aminesoukara/DezAlty-Bot" alt="open issues" />
+  </a>
+  <a href="https://github.com/AmineSoukara/DezAlty-Bot/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/aminesoukara/DezAlty-Bot.svg" alt="license" />
+  </a>
+</p>
+   
+<h4>
+    <a href="https://t.me/DezAltyBot">View Demo</a>
+  <span> · </span>
+    <a href="https://github.com/AmineSoukara/DezAlty-Bot">Documentation</a>
+  <span> · </span>
+    <a href="https://github.com/AmineSoukara/DezAlty-Bot/issues/">Report Bug</a>
+  <span> · </span>
+    <a href="https://github.com/AmineSoukara/DezAlty-Bot/issues/">Request Feature</a>
+  </h4>
+</div>
+
+<br />
+
+<div align="center">
 
 # 🤖 Demo:
-<a href="https://t.me/DezAltyBot"><img src="https://img.shields.io/badge/@DezAltyBot-ffff00?style=for-the-badge&logo=telegram&logoColor=white"></a>
-# 📌 Deploy:
+<a href="https://t.me/DezAltyBot"><img src="https://img.shields.io/badge/@DezAltyBot-8000FF?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
+# 📌 Deploy:
 <details>	
   <summary><b>❤ Deploy Your Own Bot :</b></summary>
 
@@ -44,14 +83,33 @@ $ python3 -m DezAlty
 </details>
 
 
-# 💬 Support 
-<a href="https://t.me/DezAltySupport"><img src="https://img.shields.io/badge/Group-ffff00?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://t.me/DezAlty"><img src="https://img.shields.io/badge/Channel-ffff00?style=for-the-badge&logo=telegram&logoColor=white"></a>
+# 💬 Support:
+<a href="https://t.me/DezAltySupport"><img src="https://img.shields.io/badge/Group-8000FF?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/DezAlty"><img src="https://img.shields.io/badge/Channel-8000FF?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 
-# 👨‍💻 Developer :
-<a href="bio.link/aminesoukara"><img src="https://img.shields.io/badge/@AmineSoukara-ffff00?style=for-the-badge&logo=messenger&logoColor=black"></a>
+# 👨‍💻 Developer:
+<a href="bio.link/aminesoukara"><img src="https://img.shields.io/badge/@AmineSoukara-8000FF?style=for-the-badge&logo=messenger&logoColor=black"></a>
 
-# 📭 Credits :
-<a href="https://github.com/pyrogram/pyrogram"><img src="https://img.shields.io/badge/@Pyrogram-ffff00?style=for-the-badge&logo=github&logoColor=black"></a>
-<a href="https://github.com/An0nimia/deezloader"><img src="https://img.shields.io/badge/@Deezloader-ffff00?style=for-the-badge&logo=github&logoColor=black"></a>
+# 📝 License:
+This Project Is Licensed Under The [GNU General Public License v3.0](https://github.com/AmineSoukara/DezAlty-Bot/blob/main/LICENSE)
+
+# 📭 Credits:
+<a href="https://github.com/pyrogram/pyrogram"><img src="https://img.shields.io/badge/@Pyrogram-8000FF?style=for-the-badge&logo=github&logoColor=black"></a>
+<a href="https://github.com/An0nimia/deezloader"><img src="https://img.shields.io/badge/@Deezloader-8000FF?style=for-the-badge&logo=github&logoColor=black"></a>
+
+<!-- Roadmap -->
+# 🧭 RoadMap:
+
+* [x] Todo 1
+* [ ] Todo 2
+
+<!-- Contributing -->
+# 🌍 Contributing:
+
+<a href="https://github.com/AmineSoukara/DezAlty-Bot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aminesoukara/DezAlty-Bot" />
+</a>
+
+Contributions Are Always Welcome!
+See `contributing.md` For Ways To Get Started.
