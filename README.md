@@ -90,7 +90,7 @@ $ python3 -m DezAlty
 
 
 # 👨‍💻 Developer:
-<a href="bio.link/aminesoukara"><img src="https://img.shields.io/badge/@AmineSoukara-000000?style=for-the-badge&logo=messenger&logoColor=white"></a>
+<a href="https://bio.link/aminesoukara"><img src="https://img.shields.io/badge/@AmineSoukara-000000?style=for-the-badge&logo=messenger&logoColor=white"></a>
 
 # 📝 License:
 This Project Is Licensed Under The [GNU General Public License v3.0](https://github.com/AmineSoukara/DezAlty-Bot/blob/main/LICENSE)
