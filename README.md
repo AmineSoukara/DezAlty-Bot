@@ -24,8 +24,11 @@
   <a href="https://github.com/AmineSoukara/DezAlty-Bot/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/aminesoukara/DezAlty-Bot.svg" alt="license" />
   </a>
+  <a href="https://crowdin.com/project/dezalty">
+    <img src="https://badges.crowdin.net/dezalty/localized.svg" alt="Crowdin" />
+  </a>
 </p>
-   
+
 <h4>
     <a href="https://github.com/AmineSoukara/DezAlty-Api">API Template</a>
   <span> · </span>
@@ -44,7 +47,6 @@
 # 🤖 Demo:
 <a href="https://t.me/DezAltyBot"><img src="https://img.shields.io/badge/DezAlty-8000FF?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://t.me/DezAltyXBot"><img src="https://img.shields.io/badge/DezAlty–X-FFFF00?style=for-the-badge&logo=telegram&logoColor=white"></a>
-
 # 📌 Deploy:
 <details>	
   <summary><b>❤ Deploy Your Own Bot :</b></summary>
