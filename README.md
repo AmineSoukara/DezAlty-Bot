@@ -31,7 +31,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmineSoukara%2FDezAlty-Bot&count_bg=%23FF0000&title_bg=%23555555&icon=tinder.svg&icon_color=%23FF0000&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
 <h4>
     <a href="https://github.com/AmineSoukara/DezAlty-Api">API Template</a>
   <span> · </span>
@@ -43,15 +42,17 @@
   </h4>
 </div>
 
-<br />
+
 
 <div align="center">
 
-# 🤖 Demo:
+##
+
+# ⭐️ Demo & Features:
+
 <a href="https://t.me/DezAltyBot"><img src="https://img.shields.io/badge/DezAlty-8000FF?style=flat&logo=telegram&logoColor=white"></a>
 <a href="https://t.me/DezAltyXBot"><img src="https://img.shields.io/badge/DezAlty–X-FFFF00?style=flat&logo=telegram&logoColor=white"></a>
 
-# ⭐️ Features:
 <details>	
   <summary><b> Why DezAlty Is Number 1 ?</b></summary>
 <div align="left">
@@ -78,18 +79,25 @@
 
 <div align="center">
 
+##
 
 # 👨‍💻 Dev & Support:
 <a href="https://bio.link/aminesoukara"><img src="https://img.shields.io/badge/@AmineSoukara-000000?style=flat&logo=messenger&logoColor=white?logoWidth=100"></a>
 <a href="https://t.me/DezAltySupport"><img src="https://img.shields.io/badge/Group-FF0000?style=flat&logo=telegram&logoColor=white?logoWidth=100"></a>
 <a href="https://t.me/DezAlty"><img src="https://img.shields.io/badge/Channel-FF0000?style=flat&logo=telegram&logoColor=white?logoWidth=100"></a>
 
+##
+
 # 📝 License:
 This Project Is Licensed Under The [GNU General Public License v3.0](https://github.com/AmineSoukara/DezAlty-Bot/blob/main/LICENSE)
+
+##
 
 # 📭 Credits:
 <a href="https://github.com/pyrogram/pyrogram"><img src="https://img.shields.io/badge/@Pyrogram-FE9A2E?style=flat&logo=github&logoColor=black"></a>
 <a href="https://github.com/An0nimia/deezloader"><img src="https://img.shields.io/badge/@Deezloader-00FF00?style=flat&logo=github&logoColor=black"></a>
+
+##
 
 <!-- Contributing -->
 # 🌍 Contributing:
@@ -100,6 +108,8 @@ This Project Is Licensed Under The [GNU General Public License v3.0](https://git
 
 Contributions Are Always Welcome!
 See `contributing.md` For Ways To Get Started.
+
+##
 
 ![⭐️](https://telegra.ph/file/b132a131aabe2106bd335.gif)
 
