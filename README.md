@@ -4,7 +4,6 @@
 
 > Telegram Bot To Search And Download Music From Deezer & Spotify (With Many Features).
 
-<!-- Badges -->
 <p>
   <a href="https://github.com/AmineSoukara/DezAlty-Bot/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/aminesoukara/DezAlty-Bot" alt="contributors" />
@@ -16,10 +15,10 @@
     <img src="https://img.shields.io/github/forks/aminesoukara/DezAlty-Bot" alt="forks" />
   </a>
   <a href="https://github.com/AmineSoukara/DezAlty-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/aminesoukara/DezAlty-Bot" alt="stars" />
+    <img src="https://img.shields.io/github/stars/aminesoukara/DezAlty-Bot?color=yellow" alt="stars" />
   </a>
   <a href="https://github.com/AmineSoukara/DezAlty-Bot/issues/">
-    <img src="https://img.shields.io/github/issues/aminesoukara/DezAlty-Bot?color=yellow" alt="open issues" />
+    <img src="https://img.shields.io/github/issues/aminesoukara/DezAlty-Bot?color=purple" alt="open issues" />
   </a>
   <a href="https://github.com/AmineSoukara/DezAlty-Bot/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/aminesoukara/DezAlty-Bot.svg" alt="license" />
@@ -27,9 +26,11 @@
   <a href="https://crowdin.com/project/dezalty">
     <img src="https://badges.crowdin.net/dezalty/localized.svg" alt="Crowdin" />
   </a>
+  <a href="https://github.com/AmineSoukara/DezAlty-Bot">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmineSoukara%2FDezAlty-Bot&count_bg=%23FF0000&title_bg=%23555555&icon=tinder.svg&icon_color=%23FF0000&title=Hits&edge_flat=false" alt="hits" />
+  </a>
 </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmineSoukara%2FDezAlty-Bot&count_bg=%23FF0000&title_bg=%23555555&icon=tinder.svg&icon_color=%23FF0000&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h4>
     <a href="https://github.com/AmineSoukara/DezAlty-Api">API Template</a>
