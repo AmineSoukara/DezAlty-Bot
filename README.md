@@ -2,7 +2,9 @@
 
 <div align="center">
 
-> Telegram Bot To Search And Download Music From Deezer & Spotify (With Many Features).
+# 🎶 DezAlty – Your All-in-One Music Bot
+
+No more switching between apps. DezAlty brings all your favorite music tools into one powerful bot — search, download, and more.
 
 <p>
   <a href="https://github.com/AmineSoukara/DezAlty-Bot/graphs/contributors">
@@ -26,91 +28,103 @@
   <a href="https://crowdin.com/project/dezalty">
     <img src="https://badges.crowdin.net/dezalty/localized.svg" alt="Crowdin" />
   </a>
-  <a href="https://github.com/AmineSoukara/DezAlty-Bot">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmineSoukara%2FDezAlty-Bot&count_bg=%23FF0000&title_bg=%23555555&icon=tinder.svg&icon_color=%23FF0000&title=Hits&edge_flat=false" alt="hits" />
-  </a>
 </p>
 
-
 <h4>
-    <a href="https://github.com/AmineSoukara/DezAlty-Api">API Template</a>
+  <a href="https://github.com/AmineSoukara/DezAlty-Api">API Template</a>
   <span> · </span>
-    <a href="https://github.com/AmineSoukara/DezAlty-Bot">Documentation</a>
+  <a href="https://github.com/AmineSoukara/DezAlty-Bot">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/AmineSoukara/DezAlty-Bot/issues/">Report Bug</a>
+  <a href="https://github.com/AmineSoukara/DezAlty-Bot/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/AmineSoukara/DezAlty-Bot/issues/">Request Feature</a>
-  </h4>
-</div>
+  <a href="https://github.com/AmineSoukara/DezAlty-Bot/issues/">Request Feature</a>
+</h4>
 
+---
 
-
-<div align="center">
-
-##
-
-# ⭐️ Demo & Features:
+## ⭐️ Telegram Bots
 
 <a href="https://t.me/DezAltyBot"><img src="https://img.shields.io/badge/DezAlty-8000FF?style=flat&logo=telegram&logoColor=white"></a>
 <a href="https://t.me/DezAltyXBot"><img src="https://img.shields.io/badge/DezAlty–X-FFFF00?style=flat&logo=telegram&logoColor=white"></a>
 
-<details>	
-  <summary><b> Why DezAlty Is Number 1 ?</b></summary>
-<div align="left">
+---
 
-##
+## ⚙️ Features
 
-* [x] Multiple Languages 
-* [x] Download From Spotify and  Deezer | Tracks - Albums/Playlist (As Single Tracks Or ZIP)
-* [x] You Can Connect Your Spotify Account With Bot
-* [x] Search And Download Lyrics From Genius/Deezer/Spotify (As File, Text, Message)
-* [x] Synced Lyrics (.lrc File)
-* [x] Youtube Downloader (video/audio)
-* [x] You Can Follow Your Favorite Artists, Bot Will Notify About New Albums
-* [x] Notifications About New Releases (Global) and Billboard Updates
-* [x] Billboard Charts Updates
-* [x] You Can Change File Format For Tracks And Albums
-* [x] Music Recognition (Shazam)
-* [x] You Can Convert  Track/Album Link To  Another Platform, Like From Deezer To Tidal
-* [x] You Can View Music MetaData And Edit Tags
-* [x] Custom Caption (A Message Under Files)
-* [x] You Can Connect Your Channel With Bot And Share Music With Your Channel Subscribers Easley
-* [x] And Many More Features Discover It Yourself
-</details>
+- 🔍 **Universal Music Search**  
+  Instantly search for tracks, albums, playlists, and shows across multiple platforms.
 
-<div align="center">
+- ⬇️ **Download Everything**  
+  Download songs, albums, playlists, episodes, and shows as individual files or zipped folders.
 
-##
+- 🎵 **Multiple Formats & Qualities**  
+  Download in OGG, M4A, MP3, FLAC, etc. Choose from Low > Medium > High > Master > MAX (up to 24-bit / ≤192 kHz FLAC, ≥4600 kbps).
 
-# 👨‍💻 Dev & Support:
-<a href="https://bio.link/aminesoukara"><img src="https://img.shields.io/badge/@AmineSoukara-000000?style=flat&logo=messenger&logoColor=white?logoWidth=100"></a>
-<a href="https://t.me/DezAltySupport"><img src="https://img.shields.io/badge/Group-FF0000?style=flat&logo=telegram&logoColor=white?logoWidth=100"></a>
-<a href="https://t.me/DezAlty"><img src="https://img.shields.io/badge/Channel-FF0000?style=flat&logo=telegram&logoColor=white?logoWidth=100"></a>
+- 📝 **Lyrics Downloader**  
+  Download full album lyrics (ZIP or separate files) or single lyrics in LRC, TXT, LINK, or as message. Auto-LRC optional.
 
-##
+- 📺 **YouTube Support**  
+  Download video and audio directly from YouTube.
 
-# 📝 License:
-This Project Is Licensed Under The [GNU General Public License v3.0](https://github.com/AmineSoukara/DezAlty-Bot/blob/main/LICENSE)
+- 🎤 **Shazam Integration**  
+  Identify any playing song around you directly from the bot.
 
-##
+- 🧐 **Metadata Viewer**  
+  View track info like title, artist, album, release year, etc.
 
-# 📭 Credits:
-<a href="https://github.com/pyrogram/pyrogram"><img src="https://img.shields.io/badge/@Pyrogram-FE9A2E?style=flat&logo=github&logoColor=black"></a>
-<a href="https://github.com/An0nimia/deezloader"><img src="https://img.shields.io/badge/@Deezloader-00FF00?style=flat&logo=github&logoColor=black"></a>
+- ✏️ **Tags Editor**  
+  Edit metadata (ID3 tags) directly within the bot.
 
-##
+- 🌀 **Link Converter**  
+  Convert track/album links to other platforms (e.g., Spotify → Tidal). Set a default conversion target too.
 
-<!-- Contributing -->
-# 🌍 Contributing:
+- 📊 **Billboard Charts**  
+  Browse and download Billboard Top 100 songs.
+
+- 🔔 **New Release Alerts**  
+  Get notified for regional Spotify releases or artist-specific updates.
+
+- 📂 **Custom File Settings**  
+  Customize file names, saving rules, and caption credits.
+
+- 🌍 **Multilingual Support**  
+  Available in 10+ languages thanks to our contributors.
+
+- 🎵 **Supported Platforms**  
+  Deezer | Tidal | Qobuz | Spotify | Apple Music | YouTube
+
+- ➕ **...And More!**  
+  Discover even more features by using the bot.
+
+> ⚠️ The bot is still in development. For issues or suggestions, [contact support](https://t.me/DezAltySupport).
+
+---
+
+## 👨‍💻 Dev & Support
+
+<a href="https://bio.link/aminesoukara"><img src="https://img.shields.io/badge/@AmineSoukara-000000?style=flat&logo=messenger&logoColor=white&logoWidth=100"></a>
+<a href="https://t.me/DezAltySupport"><img src="https://img.shields.io/badge/Group-FF0000?style=flat&logo=telegram&logoColor=white&logoWidth=100"></a>
+<a href="https://t.me/DezAlty"><img src="https://img.shields.io/badge/Channel-FF0000?style=flat&logo=telegram&logoColor=white&logoWidth=100"></a>
+
+---
+
+## 📝 License
+
+This project is licensed under the [GNU General Public License v3.0](https://github.com/AmineSoukara/DezAlty-Bot/blob/main/LICENSE)
+
+---
+
+## 🌍 Contributing
 
 <a href="https://github.com/AmineSoukara/DezAlty-Bot/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=aminesoukara/DezAlty-Bot" />
 </a>
 
-Contributions Are Always Welcome!
-See `contributing.md` For Ways To Get Started.
+Contributions are always welcome!  
+See `contributing.md` to get started.
 
-##
+---
 
 ![⭐️](https://telegra.ph/file/b132a131aabe2106bd335.gif)
 
+</div>
